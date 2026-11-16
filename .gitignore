@@ -1,0 +1,20 @@
+# Môi trường ảo Python
+.venv/
+venv/
+
+# Biến môi trường (chứa mật khẩu database) - KHÔNG đưa lên Git
+.env
+
+# File tạm của Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor, hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Frontend (sau này)
+node_modules/

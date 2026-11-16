@@ -1,0 +1,14 @@
+# Kết nối PostgreSQL
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+
+# Backend API
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
+# Xử lý dữ liệu và Machine Learning
+pandas>=2.2
+scikit-learn>=1.5
+
+# Kiểm thử
+pytest>=8.0

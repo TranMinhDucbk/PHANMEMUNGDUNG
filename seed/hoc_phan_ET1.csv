@@ -1,0 +1,113 @@
+﻿ma_hp,ten_hp,nhom,ky_hoc_khuyen_nghi,bat_buoc,so_tc,tinh_cpa
+SSH1111,Triết học Mác - Lênin,Lý luận chính trị + Pháp luật đại cương,1,1,3,1
+SSH1121,Kinh tế chính trị Mác - Lênin,Lý luận chính trị + Pháp luật đại cương,2,1,2,1
+SSH1131,Chủ nghĩa xã hội khoa học,Lý luận chính trị + Pháp luật đại cương,3,1,2,1
+SSH1141,Lịch sử Đảng cộng sản Việt Nam,Lý luận chính trị + Pháp luật đại cương,4,1,2,1
+SSH1151,Tư tưởng Hồ Chí Minh,Lý luận chính trị + Pháp luật đại cương,4,1,2,1
+EM1170,Pháp luật đại cương,Lý luận chính trị + Pháp luật đại cương,2,1,2,1
+MI1111,Giải tích I,Toán và Khoa học cơ bản,1,1,4,1
+MI1121,Giải tích II,Toán và Khoa học cơ bản,2,1,3,1
+MI1131,Giải tích III,Toán và Khoa học cơ bản,3,1,3,1
+MI1141,Đại số,Toán và Khoa học cơ bản,1,1,4,1
+MI2020,Xác suất thống kê,Toán và Khoa học cơ bản,3,1,3,1
+MI2010,Phương pháp tính,Toán và Khoa học cơ bản,5,1,2,1
+PH1111,Vật lý đại cương I,Toán và Khoa học cơ bản,1,1,2,1
+PH1122,Vật lý đại cương II,Toán và Khoa học cơ bản,2,1,4,1
+PH3330,Vật lý điện tử,Toán và Khoa học cơ bản,3,1,3,1
+IT1110,Tin học đại cương,Toán và Khoa học cơ bản,2,1,4,1
+ET2100,Cấu trúc dữ liệu và giải thuật,Cơ sở và cốt lõi ngành,4,1,2,1
+ET2000,Nhập môn kỹ thuật điện tử-viễn thông,Cơ sở và cốt lõi ngành,1,1,2,1
+ET2021,Thực tập cơ bản,Cơ sở và cốt lõi ngành,1,1,2,1
+ET2031,Kỹ thuật lập trình C/C++,Cơ sở và cốt lõi ngành,4,1,2,1
+ET2040,Cấu kiện điện tử,Cơ sở và cốt lõi ngành,4,1,3,1
+ET2050,Lý thuyết mạch,Cơ sở và cốt lõi ngành,4,1,3,1
+ET2060,Tín hiệu và hệ thống,Cơ sở và cốt lõi ngành,4,1,3,1
+ET3210,Trường điện tử,Cơ sở và cốt lõi ngành,4,1,3,1
+ET2072,Lý thuyết thông tin,Cơ sở và cốt lõi ngành,4,1,2,1
+ET3220,Điện tử số,Cơ sở và cốt lõi ngành,5,1,3,1
+ET3230,Điện tử tương tự I,Cơ sở và cốt lõi ngành,5,1,3,1
+ET3260,Kỹ thuật phần mềm ứng dụng,Cơ sở và cốt lõi ngành,5,1,2,1
+ET3280,Anten và truyền sóng,Cơ sở và cốt lõi ngành,5,1,2,1
+ET2080,Cơ sở kỹ thuật đo lường,Cơ sở và cốt lõi ngành,5,1,2,1
+ET3250,Thông tin số,Cơ sở và cốt lõi ngành,6,1,3,1
+ET3241,Điện tử tương tự II,Cơ sở và cốt lõi ngành,6,1,2,1
+ET3300,Kỹ thuật vi xử lý,Cơ sở và cốt lõi ngành,6,1,3,1
+ET3290,Đồ án thiết kế I,Cơ sở và cốt lõi ngành,7,1,2,1
+ET4010,Đồ án thiết kế II,Cơ sở và cốt lõi ngành,8,1,2,1
+ET4020,Xử lý tín hiệu số,Cơ sở và cốt lõi ngành,5,1,3,1
+ET2022,Technical Writing and Presentation,Kiến thức bổ trợ,6,1,3,1
+EM1010,Quản trị học đại cương,Kiến thức bổ trợ,6,0,2,1
+EM1180,Văn hóa kinh doanh và tinh thần khởi nghiệp,Kiến thức bổ trợ,7,0,2,1
+ED3280,Tâm lý học ứng dụng,Kiến thức bổ trợ,6,0,2,1
+ED3220,Kỹ năng mềm,Kiến thức bổ trợ,6,0,2,1
+ET3262,Tư duy công nghệ và thiết kế kỹ thuật,Kiến thức bổ trợ,6,0,2,1
+CH2021,Đổi mới sáng tạo và khởi nghiệp,Kiến thức bổ trợ,,0,2,1
+ME3123,Thiết kế mỹ thuật công nghiệp,Kiến thức bổ trợ,,0,2,1
+ME3124,Thiết kế quảng bá sản phẩm,Kiến thức bổ trợ,,0,2,1
+ET3270,Thực tập kỹ thuật,Tốt nghiệp,8,0,2,1
+ET4900,Đồ án tốt nghiệp cử nhân,Tốt nghiệp,8,0,6,1
+ET4920,Đồ án nghiên cứu Cử nhân (KT Điện tử - Viễn thông),Tốt nghiệp,8,0,8,1
+ET3161,Phân tích thiết kế hệ thống phần mềm,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4070,Cơ sở truyền số liệu,Mô đun chuyên sâu (chọn 1),6,0,3,1
+ET4230,Mạng máy tính,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4291,Hệ điều hành,Mô đun chuyên sâu (chọn 1),6,0,3,1
+ET4361,Hệ thống nhúng và thiết kế giao tiếp nhúng,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET3180,Thông tin vô tuyến,Mô đun chuyên sâu (chọn 1),6,0,3,1
+ET3312,Mã hóa bảo mật và ứng dụng,Mô đun chuyên sâu (chọn 1),6,0,3,1
+ET4331,Thông tin di động,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4245,Trí tuệ nhân tạo và ứng dụng,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4263,Nén và mã hóa dữ liệu đa phương tiện,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4364,Hệ thống nhúng đa phương tiện,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4033,Thiết kế IC tương tự,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4034,"Thiết kế, tổng hợp hệ thống số",Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4340,Thiết kế VLSI,Mô đun chuyên sâu (chọn 1),7,0,3,1
+ET4358,Cơ sở công nghệ vi điện tử,Mô đun chuyên sâu (chọn 1),6,0,3,1
+FL1131,Tiếng Anh cơ sở 1,Ngoại ngữ (không tính CPA),1,1,0,0
+FL1132,Tiếng Anh cơ sở 2,Ngoại ngữ (không tính CPA),2,1,0,0
+FL1133,Tiếng Anh cơ sở 3,Ngoại ngữ (không tính CPA),3,1,0,0
+FL1134,Tiếng Anh cơ sở 4,Ngoại ngữ (không tính CPA),4,1,0,0
+FL1135,Tiếng Anh cơ sở 5,Ngoại ngữ (không tính CPA),5,1,0,0
+MIL1210,Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam,Giáo dục Quốc phòng - An ninh (không tính CPA),1,1,0,0
+MIL1220,Công tác quốc phòng và an ninh,Giáo dục Quốc phòng - An ninh (không tính CPA),2,1,0,0
+MIL1230,Quân sự chung,Giáo dục Quốc phòng - An ninh (không tính CPA),2,1,0,0
+MIL1240,Kỹ thuật chiến đấu bộ binh và chiến thuật,Giáo dục Quốc phòng - An ninh (không tính CPA),2,1,0,0
+PE1014,Lý luận TDTT,Giáo dục thể chất (không tính CPA),1,1,0,0
+PE1015,Thể dục tay không,Giáo dục thể chất (không tính CPA),1,0,0,0
+PE1024,Bơi lội,Giáo dục thể chất (không tính CPA),2,0,0,0
+PE1025,Pickleball,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2101,Bóng chuyền 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2102,Bóng chuyền 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2103,Bóng chuyền 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2201,Bóng đá 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2202,Bóng đá 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2203,Bóng đá 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2301,Bóng rổ 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2302,Bóng rổ 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2303,Bóng rổ 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2401,Bóng bàn 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2402,Bóng bàn 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2403,Bóng bàn 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2501,Cầu lông 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2502,Cầu lông 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2503,Cầu lông 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2601,Chạy,Giáo dục thể chất (không tính CPA),"3,4,5",0,0,0
+PE2151,Erobic,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2251,Taekwondo 1,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE2252,Taekwondo 2,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE2253,Taekwondo 3,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE2261,Karatedo,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE3101,Chuyên sâu Bóng chuyền 1,Giáo dục thể chất (không tính CPA),1,0,0,0
+PE3102,Chuyên sâu Bóng chuyền 2,Giáo dục thể chất (không tính CPA),2,0,0,0
+PE3103,Chuyên sâu Bóng chuyền 3,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE3104,Chuyên sâu Bóng chuyền 4,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE3105,Chuyên sâu Bóng chuyền 5,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE3201,Chuyên sâu Bóng đá 1,Giáo dục thể chất (không tính CPA),1,0,0,0
+PE3202,Chuyên sâu Bóng đá 2,Giáo dục thể chất (không tính CPA),2,0,0,0
+PE3203,Chuyên sâu Bóng đá 3,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE3204,Chuyên sâu Bóng đá 4,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE3205,Chuyên sâu Bóng đá 5,Giáo dục thể chất (không tính CPA),5,0,0,0
+PE3301,Chuyên sâu Bóng rổ 1,Giáo dục thể chất (không tính CPA),1,0,0,0
+PE3302,Chuyên sâu Bóng rổ 2,Giáo dục thể chất (không tính CPA),2,0,0,0
+PE3303,Chuyên sâu Bóng rổ 3,Giáo dục thể chất (không tính CPA),3,0,0,0
+PE3304,Chuyên sâu Bóng rổ 4,Giáo dục thể chất (không tính CPA),4,0,0,0
+PE3305,Chuyên sâu Bóng rổ 5,Giáo dục thể chất (không tính CPA),5,0,0,0
