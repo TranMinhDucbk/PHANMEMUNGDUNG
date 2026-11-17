@@ -63,6 +63,40 @@ L.append("")
 for nam in range(2024, 2030):
     for ky in (1, 2, 3):
         L.append(f"INSERT INTO hoc_ky VALUES ('{nam}{ky}', {nam}, {ky});")
+L.append("")
+
+# ---- Tiên quyết / học trước / song hành (file có thể chưa có hoặc đang trống) ----
+tq_path = os.path.join(src, "tien_quyet_ET1.csv")
+if os.path.exists(tq_path):
+    known = {r["ma_hp"] for r in hp}
+    tq = [r for r in rows("tien_quyet_ET1.csv") if r.get("ma_hp", "").strip()]
+    graph = {}
+    for i, r in enumerate(tq, start=2):
+        a, b, loai = r["ma_hp"].strip(), r["ma_hp_dieu_kien"].strip(), r["loai"].strip()
+        if loai not in ("tien_quyet", "hoc_truoc", "song_hanh"):
+            sys.exit(f"tien_quyet_ET1.csv dòng {i}: loai '{loai}' không hợp lệ (tien_quyet | hoc_truoc | song_hanh)")
+        for m in (a, b):
+            if m not in known:
+                sys.exit(f"tien_quyet_ET1.csv dòng {i}: mã học phần '{m}' không có trong hoc_phan_ET1.csv")
+        if a == b:
+            sys.exit(f"tien_quyet_ET1.csv dòng {i}: môn không thể là điều kiện của chính nó")
+        if loai != "song_hanh":
+            graph.setdefault(a, set()).add(b)
+        L.append(f"INSERT INTO tien_quyet VALUES ({q(a)}, {q(b)}, {q(loai)});")
+    # Phát hiện vòng lặp (A cần B, B lại cần A) — Planner sẽ không xếp được
+    state = {}
+    def visit(n, path):
+        state[n] = 1
+        for m in graph.get(n, ()):
+            if state.get(m) == 1:
+                sys.exit("Vòng lặp tiên quyết: " + " -> ".join(path + [n, m]))
+            if m not in state:
+                visit(m, path + [n])
+        state[n] = 2
+    for n in list(graph):
+        if n not in state:
+            visit(n, [])
+    print(f"tien_quyet: {len(tq)} dòng")
 
 L += ["", "COMMIT;", ""]
 open(out, "w", encoding="utf-8").write("\n".join(L))
